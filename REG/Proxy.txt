@@ -1,0 +1,11 @@
+http://pac.hybrid-web.global.blackspider.com/proxy.pac?p=z4frh6sm2f
+
+GPEDIT.MSC
+
+Modelos admnistrativos > Componentes do windows > Internet Explore > Impedir alteração do proxy > Habilitar.
+
+
+Modelos admnistrativos > Componentes do windows > windows update > remover todos os acessos ao uso de recursos do windows update > Habilitar.
+
+
+Modelos admnistrativos > Componentes do windows > Internet Explore > configurar atualizações automaticas > desabilitar.
